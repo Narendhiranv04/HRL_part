@@ -18,3 +18,14 @@ CoppeliaSim_Edu_*/
 venv*/
 __pycache__/
 .DS_Store
+nohup.out
+pip.log
+rlbench_data/
+renders/
+runtime_logs/
+sac_logs/
+checkpoints/
+CoppeliaSim_Edu_*/
+venv*/
+__pycache__/
+.DS_Store

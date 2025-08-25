@@ -1,0 +1,12 @@
+{
+  "episode_dir": "/home/naren/SEER/HRL_part/data/LHManip/LHManip_partial/long_horizon_manipulation_dataset/place_the_bowls_on_the_appropriate_plate/place_the_bowls_on_the_appropriate_plate/1",
+  "out_dir": "/home/naren/SEER/HRL_part/data/LHManip/segments/place_bowls_1",
+  "skill": "grasp",
+  "seg_id": 5,
+  "map_cam": "images_wrist",
+  "frame_start": 0,
+  "frame_end": 241,
+  "cams": "images,images_wrist",
+  "save_videos": true,
+  "render_fps": 10
+}

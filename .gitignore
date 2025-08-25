@@ -40,3 +40,4 @@ CoppeliaSim_Edu_*/
 venv*/
 __pycache__/
 .DS_Store
+data/LHManip/LHManip_partial/

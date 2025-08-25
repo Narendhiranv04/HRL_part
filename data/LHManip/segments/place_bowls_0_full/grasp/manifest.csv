@@ -1,0 +1,2 @@
+episode_dir,skill,segment_name,map_cam,frame_start,frame_end,t_start,t_end,H
+/home/naren/SEER/HRL_part/data/LHManip/LHManip_partial/long_horizon_manipulation_dataset/place_the_bowls_on_the_appropriate_plate/place_the_bowls_on_the_appropriate_plate/0,grasp,grasp10101,images_wrist,0,736,0,3000,3000
